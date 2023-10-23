@@ -1,4 +1,4 @@
 # Portfolio-Vinay
-This is sample Portifolio projevt
+This is sample Portfolio..
 
-like the project.
+like the portfolio.
